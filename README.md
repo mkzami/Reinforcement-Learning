@@ -1,2 +1,3 @@
 # Reinforcement-Learning
-Check out my latest work done on AI &amp; ML- Reinforcement learning and how to make an agent smarter. https://rlproject.netlify.app/#acknowledgement
+Last semester, I worked with an amazing team on a project exploring Reinforcement Learning in game development. Check out our final work here: https://lnkd.in/gajeR23U.
+AI and Machine Learning are transforming games, with Reinforcement Learning enabling agents to discover unpredictable strategies and elevate gameplay in ways deterministic environments cannot. While games like Cricket 07 could be exploited through predictable patterns, RL allows non-player agents to evolve with each playthrough—learning from successes and mistakes—creating more dynamic, engaging, and lifelike game worlds
